@@ -6,7 +6,7 @@ Tumor heterogeneity drives resistance to therapeutics in cancers including ovari
 
 This repository contains three comma-separated tables of processed imaging data in the `data/` directory.
 
-* `organoid_sizes.csv.gz`: This table contains one measurement of an organoid per row with columns describing experiment ID `expt`, `treatment` of either control or iNK co-culture, measurement `timepoint` in 15min increments encoded as 1-39, surface `area` of all organoids in squared micrometres, apoptotic surface area of all organoids `apop_area` in squared micrometres, `roundness` of organoids defined `sqrt(4*pi*area)/perimetre)`, and `diametre in micrometres`
+* `organoid_sizes.csv.gz`: This table contains one measurement of an organoid per row with columns describing experiment ID `expt`, `treatment` of either control or iNK co-culture, measurement `timepoint` in 15min increments encoded as 1-39, surface `area` of all organoids in squared micrometres, apoptotic surface area of all organoids `apop_area` in squared micrometres, `roundness` of organoids defined as `sqrt(4*pi*area)/perimetre)`, and `diametre in micrometres`
 * `organoid_apoptosis_pd01.csv.gz`: This wide format table contains the percentage of apoptotic surface area in treatments and controls across different time points for patient PDO1. Each value is the measurement of a single organoid and each column contains independent measurements from the other columns. 
 * `organoid_apoptosis_pd02.csv.gz`: This wide format table contains the percentage of apoptotic surface area in treatments and controls across different time points for patient PDO2 in the same format as above.
 
