@@ -1,7 +1,6 @@
 # Analysis of apoptosis in co-cultures of ovarian cancer organoids and IPSC-derived Natural Killer cells
 
 Tumor heterogeneity drives resistance to therapeutics in cancers including ovarian cancer. In this repository, we use Bayesian modelling to investigate resistant and susceptible tumor populations from co-cultures of patient-derived ovarian cancer organoids and IPSC-derived Natural Kill cells (iNKs). For further details please see the preprint cited below. 
-
 ## The apoptosis and organoid size datasets
 
 This repository contains three comma-separated tables of processed imaging data in the `data/` directory.
@@ -31,4 +30,8 @@ Pre-fitted models are read from `data/models` but code for model fitting is stil
 
 ## Citation
 
-Please cite the study related to this work when using the data or code in this repository. Publication of a bioRxiv preprint is pending.
+Please cite the study related to this work when using the data or code in this repository:
+
+```
+Marisa Mercadante, Armin Scheben, Jacob Estrada, Jan Savas-Carstens, William Sullivan, Nicholas Housel, Tatiana Volpari, Jax Hebner, Maria Sapar, Tom Rusielewicz, Frederick J. Monsma Jr., Stefan Semrau, Yinan Wang, Laura A. Martin. A patient-derived ovarian cancer organoid platform to study susceptibility to natural killer cells. bioRxiv, 2025.03.06.641285, doi: https://doi.org/10.1101/2025.03.06.641285
+```
