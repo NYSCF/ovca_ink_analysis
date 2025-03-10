@@ -30,8 +30,7 @@ Pre-fitted models are read from `data/models` but code for model fitting is stil
 
 ## Citation
 
-Please cite the study related to this work when using the data or code in this repository:
+When using the data or code in this repository, please cite:
 
-```
-Marisa Mercadante, Armin Scheben, Jacob Estrada, Jan Savas-Carstens, William Sullivan, Nicholas Housel, Tatiana Volpari, Jax Hebner, Maria Sapar, Tom Rusielewicz, Frederick J. Monsma Jr., Stefan Semrau, Yinan Wang, Laura A. Martin. A patient-derived ovarian cancer organoid platform to study susceptibility to natural killer cells. bioRxiv, 2025.03.06.641285, doi: https://doi.org/10.1101/2025.03.06.641285
-```
+> Marisa Mercadante, Armin Scheben, Jacob Estrada, Jan Savas-Carstens, William Sullivan, Nicholas Housel, Tatiana Volpari, Jax Hebner, Maria Sapar, Tom Rusielewicz, Frederick J. Monsma Jr., Stefan Semrau, Yinan Wang, Laura A. Martin. 
+> A patient-derived ovarian cancer organoid platform to study susceptibility to natural killer cells. *bioRxiv*, 2025.03.06.641285, doi: [https://doi.org/10.1101/2025.03.06.641285](https://doi.org/10.1101/2025.03.06.641285)
