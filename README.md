@@ -32,5 +32,5 @@ Pre-fitted models are read from `data/models` but code for model fitting is stil
 
 When using the data or code in this repository, please cite:
 
-> Marisa Mercadante, Armin Scheben, Jacob Estrada, Jan Savas-Carstens, William Sullivan, Nicholas Housel, Tatiana Volpari, Jax Hebner, Maria Sapar, Tom Rusielewicz, Frederick J. Monsma Jr., Stefan Semrau, Yinan Wang, Laura A. Martin. 
-> A patient-derived ovarian cancer organoid platform to study susceptibility to natural killer cells. *bioRxiv*, 2025.03.06.641285, doi: [https://doi.org/10.1101/2025.03.06.641285](https://doi.org/10.1101/2025.03.06.641285)
+> Marisa Mercadante, Armin Scheben, Jacob Estrada, Jan Savas-Carstens, William Sullivan, Nicholas Housel, Maria Sapar,Tatiana Volpari, Jax Hebner, Tom Rusielewicz, Frederick J. Monsma Jr., Stefan Semrau, Yinan Wang, Laura A. Martin. 
+> Large scale quantification of natural killer cell-induced apoptosis in patient-derived organoids reveals intratumoral response heterogeneity. *npj Precision Oncology*,**10**,48 (2026), doi: [https://doi.org/10.1038/s41698-025-01251-7](https://doi.org/10.1038/s41698-025-01251-7).
